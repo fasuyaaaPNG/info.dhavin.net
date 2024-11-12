@@ -1,0 +1,238 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.home {
+    z-index:6
+}
+
+.gambarNolan {
+    position: absolute;
+    right: 70px;
+}
+
+body {
+    background-color: #101010;
+    color: white;
+}
+
+.header{
+    background-color: #101010;
+    height: 60px;
+    filter: drop-shadow(0px 25px 30px rgb(185, 0, 182));
+}
+
+.isiHeader {
+    margin: auto;
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    /* border: 1px solid red; */
+    width: 1300px;
+}
+
+.logo {
+    font-family: "Alegreya", serif;
+    font-weight: 400;
+    font-size: 25px;
+    font-style: normal;
+    color: white;
+}
+
+.home {
+    position: relative;
+    right: 40px;
+    color: rgba(0,212,255,1);
+    text-decoration: none;
+    top: 10px;
+}
+
+.isi1 {
+    background: rgb(0,212,255);
+    background: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgba(9,9,121,1) 85%, rgba(2,0,36,1) 97%);
+    height: 335px;
+    margin-bottom: 20px;
+}
+
+.isiIsi1 {
+    margin: auto;
+    /* border: 1px solid white; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.sisiKiri1 {
+    /* border: 1px solid yellow; */
+    height: 50px;
+    margin-left: 40px;
+}
+
+.judulSisiKiri1 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    position: absolute;
+    font-size: 35px;
+    top: 140px;
+}
+
+.sisiKanan1 {
+    position: relative;
+    float: right;
+    bottom: 60px;
+}
+
+.deskSisiKiri1 {
+    position: relative;
+    bottom: 34px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    opacity: 0.8;
+    color: #101010;
+}
+
+.button {
+    background-color: #101010;
+    padding: 10px 20px 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.gambarNolan {
+    width: 700px;
+}
+
+.isi2 {
+    border: 1px solid white;
+    height: 280px;
+    width: 1300px;
+    margin: auto;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.isi2Kiri {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.isi2Kanan {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 30px;
+    width: 1100px;
+    margin: auto;
+    position: relative;
+    top: 40px;
+}
+
+.isi3 {
+    border: 1px solid white;
+    background-color: white;
+    height: 450px;
+    width: 1300px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.isi3Kiri {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 30px;
+    color: #101010;
+}
+
+.isi3Kanan {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    text-align: left;
+    margin-top: 30px;
+    width: 1100px;
+    margin: auto;
+    position: relative;
+    top: 40px;
+    color: #101010;
+}
+
+.isi4 {
+    height: 280px;
+    width: 1300px;
+    margin: auto;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.isi4Kiri {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 30px;
+    position: relative;
+    left: 20px;
+}
+
+.isi4Kanan {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    text-align: left;
+    margin-top: 30px;
+    width: max-content;
+    margin: auto;
+    position: relative;
+    top: 20px;
+    left: 70px;
+}
+
+.footer {
+    background-color: white;
+    color: #101010;
+    height: 400px;
+}
+
+.isiffKiri {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+    position: relative;
+    top: 30px;
+}
+
+.isif {
+    height: 280px;
+    width: 1000px;
+    margin: auto;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.isifKiri {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+}
