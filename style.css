@@ -104,6 +104,10 @@ body {
     text-decoration: none;
 }
 
+a {
+    text-decoration: none;
+}
+
 .gambarNolan {
     width: 100px;
 }

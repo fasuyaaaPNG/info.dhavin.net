@@ -23,9 +23,6 @@
                     Dhavin.net
                 </p>
             </a>
-            <a href="http://dhavin.net/" class="home">
-                Home
-            </a>
         </div>
     </div>
     <div class="isi1">
