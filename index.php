@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Dhavin.net</title>
     <link rel="stylesheet" href="./style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -18,11 +18,8 @@
 <body>
     <div class="header">
         <div class="isiHeader">
-            <p class="logo">
+            <a href="http://dhavin.net/ class="logo">
                 Dhavin.net
-            </p>
-            <a href="http://dhavin.net/" class="home">
-                Home
             </a>
         </div>
     </div>
