@@ -18,8 +18,13 @@
 <body>
     <div class="header">
         <div class="isiHeader">
-            <a href="http://dhavin.net/ class="logo">
-                Dhavin.net
+            <a href="">
+                <p class="logo">
+                    Dhavin.net
+                </p>
+            </a>
+            <a href="http://dhavin.net/" class="home">
+                Home
             </a>
         </div>
     </div>
