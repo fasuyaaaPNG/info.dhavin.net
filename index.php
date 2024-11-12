@@ -18,7 +18,7 @@
 <body>
     <div class="header">
         <div class="isiHeader">
-            <a href="">
+            <a href="http://dhavin.net/">
                 <p class="logo">
                     Dhavin.net
                 </p>
