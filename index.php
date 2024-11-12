@@ -40,7 +40,7 @@
                 </a>
             </div>
             <div class="sisiKanan1">
-                <!-- <img class="gambarNolan" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fbcc8e98-1e32-4651-9919-367525a4ebf7/di8i8ac-034a99b9-00cb-4891-897c-f998c7b22248.png/v1/fill/w_1280,h_720/nolan_the_navigator_11_11__render_png_by_wolvesdzn_di8i8ac-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvZmJjYzhlOTgtMWUzMi00NjUxLTk5MTktMzY3NTI1YTRlYmY3XC9kaThpOGFjLTAzNGE5OWI5LTAwY2ItNDg5MS04OTdjLWY5OThjN2IyMjI0OC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.xTsB_BCb1_RpnDHJmuBSA3DU4xa2cWGvNAgAa9EKWdE" alt="" class="nolan"> -->
+                <img class="gambarNolan" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fbcc8e98-1e32-4651-9919-367525a4ebf7/di8i8ac-034a99b9-00cb-4891-897c-f998c7b22248.png/v1/fill/w_1280,h_720/nolan_the_navigator_11_11__render_png_by_wolvesdzn_di8i8ac-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvZmJjYzhlOTgtMWUzMi00NjUxLTk5MTktMzY3NTI1YTRlYmY3XC9kaThpOGFjLTAzNGE5OWI5LTAwY2ItNDg5MS04OTdjLWY5OThjN2IyMjI0OC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.xTsB_BCb1_RpnDHJmuBSA3DU4xa2cWGvNAgAa9EKWdE" alt="" class="nolan">
             </div>
         </div>
     </div>
