@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dhavin.net</title>
+    <title>info.dhavin.net</title>
     <link rel="stylesheet" href="./style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -20,7 +20,7 @@
         <div class="isiHeader">
             <a href="http://dhavin.net/">
                 <p class="logo">
-                    Dhavin.net
+                    info.dhavin.net
                 </p>
             </a>
         </div>
